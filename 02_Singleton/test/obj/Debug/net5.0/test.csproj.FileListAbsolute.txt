@@ -1,0 +1,16 @@
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/bin/Debug/net5.0/test
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/bin/Debug/net5.0/test.deps.json
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/bin/Debug/net5.0/test.runtimeconfig.json
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/bin/Debug/net5.0/test.runtimeconfig.dev.json
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/bin/Debug/net5.0/test.dll
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/bin/Debug/net5.0/ref/test.dll
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/bin/Debug/net5.0/test.pdb
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/obj/Debug/net5.0/test.csproj.AssemblyReference.cache
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/obj/Debug/net5.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/obj/Debug/net5.0/test.AssemblyInfoInputs.cache
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/obj/Debug/net5.0/test.AssemblyInfo.cs
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/obj/Debug/net5.0/test.csproj.CoreCompileInputs.cache
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/obj/Debug/net5.0/test.dll
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/obj/Debug/net5.0/ref/test.dll
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/obj/Debug/net5.0/test.pdb
+/home/hongtianchen/learning/cpp_projects/CodingInterviewChinese2/02_Singleton/test/obj/Debug/net5.0/test.genruntimeconfig.cache
