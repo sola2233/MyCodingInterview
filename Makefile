@@ -15,6 +15,7 @@ SRC_05		= $(PROJ_DIR)/05_ReplaceSpaces
 SRC_06		= $(PROJ_DIR)/06_PrintListInReversedOrder
 SRC_07		= $(PROJ_DIR)/07_ConstructBinaryTree
 
+SRC_OBJ += 	$(SRC_01)
 # 看本层会不会用到
 OBJS_UTL = $(SRC_UTL)/*.o
 OBJS_06 = $(SRC_06)/*.o

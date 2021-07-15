@@ -18,7 +18,7 @@ $(UTL_LIBS) : %.a : %.o
 	@echo "正在创建lib$@"
 	@$(AR) cr -o lib$@ $^
 # 将静态库复制到lib下
-	@mv lib$@ ../lib
+	@mv lib$@ ../lib/
 
 $(UTL_OBJS) : %.o : %.cpp
 	@$(CXX) -c $(CFLAGS) $(CPPFLAGS) $^ -o $@
