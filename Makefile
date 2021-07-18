@@ -16,12 +16,18 @@ SRC_06		= $(PROJ_DIR)/06_PrintListInReversedOrder
 SRC_07		= $(PROJ_DIR)/07_ConstructBinaryTree
 
 SRC_OBJ += 	$(SRC_01)
+SRC_OBJ += 	$(SRC_03_01)
+SRC_OBJ += 	$(SRC_03_02)
+SRC_OBJ += 	$(SRC_04)
+SRC_OBJ += 	$(SRC_05)
+SRC_OBJ += 	$(SRC_06)
+
 # 看本层会不会用到
 OBJS_UTL = $(SRC_UTL)/*.o
 OBJS_06 = $(SRC_06)/*.o
 
 .PHONY : all
-all: $(SRC_UTL) $(SRC_06)
+all: $(SRC_UTL) $(SRC_OBJ)
 	make -C $(SRC_UTL)
 	make -C $(SRC_01)
 	make -C $(SRC_03_01)
