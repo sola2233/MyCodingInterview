@@ -83,6 +83,7 @@ bool hasPathCore(const char* matrix, int rows, int cols, int row,
 
         if(!hasPath)
         {
+            // 回溯
             --pathLength;
             visited[row * cols + col] = false;
         }
